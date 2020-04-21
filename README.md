@@ -67,6 +67,8 @@ If you'd rather not use Patchwork, follow the next section.
 
 ### 2b. Install ssb-server
 
+Dependencies: `libtool autoconf automake autogen gettext python3`
+
 The [ssb-server](http://www.github.com/SSBC/ssb-server) is a local secure scuttlebutt server which will manage replicating data with other peers.
 
 Make sure you [get an invite code](https://github.com/ssbc/scuttlebot/wiki/Pub-Servers) from a pub to increase your ability to find other scuttlers.
